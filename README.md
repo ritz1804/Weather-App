@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ritz1804/Weather-App">
-    <img alt="Weather" src="app-img.jpeg" width="100%" />
+    <img alt="Weather" src="app-img.jpeg" width="1604" />
   </a>
 </p>
 <p align="center">
